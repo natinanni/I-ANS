@@ -1,0 +1,176 @@
+/* Empty. Add your own CSS if you like */
+
+.centralizado{
+
+    text-align: center;
+}
+
+textarea{
+    width: 90%;
+    height: 150px;
+    align-content: center;
+    margin-right: 10px;
+    margin-left: 10px;
+    border: 3px solid gray;
+
+}
+
+.botaoCentralizado{
+    margin-left: 40%; 
+}
+
+.botaoCentralizadoMaior{
+    margin-left: 30%; 
+}
+
+.inputTexto{
+    width: 90%;
+    height: 50px !important;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 3px solid gray !important;
+}
+
+.inputTextoMenor{
+    width: 90%;
+    height: 40px !important;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 3px solid gray !important;
+}
+
+.inputTextoDIOPS{
+    width: 35% !important;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border: 3px solid gray !important;
+}
+
+
+.fonte15{
+    font-size: 15px;
+}
+
+.margem-lateral{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.cabecalho{
+    height: 100px;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.coluna1{
+    border: 2px solid grey;
+    text-align: center;
+    float:left;
+    width:58%;
+    background-color: #00bdfd;
+}
+
+
+.coluna2{
+    border: 2px solid grey;
+    background-color: #00bdfd;
+    text-align: center;
+    float:right;
+    width:38%;
+}
+
+.coluna11{
+    border-bottom: 2px solid grey;
+    text-align: center;
+    float:left;
+    width: 59%;
+    height: 60px;
+    padding-bottom: 10px;
+}
+
+
+.coluna22{
+    border-bottom: 2px solid grey;
+    text-align: center;
+    float:right;
+    width: 39%;
+    height: 60px;
+    padding-bottom: 5px;
+}
+
+.linha{
+    margin-bottom: 20px;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #00bdfd;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.colunaReclamacoes1{
+    border-bottom: 3px solid blue;
+    text-align: center;
+    margin-right: 2%;
+    float:left;
+    width:45%;
+    background-color: #00bdfd;
+}
+
+
+.colunaReclamacoes2{
+    border-bottom: 3px solid blue;
+    background-color: #00bdfd;
+    text-align: center;
+    margin-right: 2%;
+    float:left;
+    width:25%;
+}
+
+.colunaReclamacoes3{
+    border-bottom: 3px solid blue;
+    background-color: #00bdfd;
+    text-align: center;
+    float:left;
+    width:25%;
+}
+
+
+.colunaReclamacoes11{
+    border-bottom: 2px solid grey;
+    text-align: center;
+    float:left;
+    width: 45%;
+    height: 60px;
+    padding-bottom: 10px;
+}
+
+
+.colunaReclamacoes22{
+    border-bottom: 2px solid grey;
+    text-align: center;
+    float:left;
+    width: 30%;
+    height: 60px;
+    padding-bottom: 5px;
+}
+
+.colunaReclamacoes33{
+    border-bottom: 2px solid grey;
+    text-align: center;
+    float:right;
+    width: 25%;
+    height: 60px;
+    padding-bottom: 5px;
+}
